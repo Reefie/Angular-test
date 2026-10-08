@@ -18,7 +18,7 @@
     "express-jwt": "^6.0.0",
     "fix": "0.0.6",
     "jsonwebtoken": "^8.5.1",
-    "mysql2": "^2.2.5",
+    "mysql2": "^3.23.1",
     "start": "^5.1.0"
   }
 }
